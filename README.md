@@ -1,6 +1,6 @@
 # Bali Bitcoin Meetup
 
-Files for each of the Bitcoin Meetups in Bali. Forlders are sorted by date.
+Files for each of the Bitcoin Meetups in Bali. Folders sorted by date.
 
 Events:
 
