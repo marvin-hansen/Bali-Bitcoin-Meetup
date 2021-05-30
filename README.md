@@ -1,11 +1,18 @@
 # Bali Bitcoin Meetup
 
-Files for each of the Bitcoin Meetups in Bali. Folders sorted by date.
+Files for each of the Bitcoin Meetups in Bali.
 
 Events:
+## June/5 
+*  Presentation
+*  Video recording
+
 
 ### May/29: Crpyto Investment 
 *  Presentation [Powerpoint](https://github.com/marvin-hansen/Bali-Bitcoin-Meetup/raw/main/3_Sat_May_29/Invest%20in%20Bitcoin.pptx)
+*  Guest speaker [presentation](https://github.com/marvin-hansen/Bali-Bitcoin-Meetup/raw/main/3_Sat_May_29/Ebel%20Strategie.pptx) 
+*  Video recording [YouTube](https://youtu.be/foIz8sf7Q48) 
+*  Pi cycle top [indicator](https://www.lookintobitcoin.com/charts/pi-cycle-top-indicator/)
 
 
 ### May/16: NFT Workshop 
