@@ -1,4 +1,3 @@
-# Bali Bitcoin Meetup
 
 Files for each of the Bitcoin Meetups in Bali.
 
