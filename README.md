@@ -1,7 +1,6 @@
 
 Files for each of the Bitcoin Meetups in Bali.
 
-Events:
 ## June/5 
 *  Presentation
 *  Video recording
