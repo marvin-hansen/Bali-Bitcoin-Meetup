@@ -2,10 +2,11 @@
 
 Files for each of the Bitcoin Meetups in Bali.
 
-## June/5 
-*  Presentation
-*  Video recording
-
+## Next: June/5: Mastering the Market Cycle & Crypto Regulations 
+* Presentation [powerpoint]()
+* Guest speaker [presentation]()
+* Guest Speaker Book: [The Tax-Free Digital Nomad](https://www.amazon.com/Tax-Free-Digital-Nomad-Julius-VanderBeek-ebook/dp/B07X7G97T4)
+* Video recording
 
 ## May/29: Crpyto Investment 
 *  Presentation [powerpoint](https://github.com/marvin-hansen/Bali-Bitcoin-Meetup/raw/main/3_Sat_May_29/Invest%20in%20Bitcoin.pptx)
