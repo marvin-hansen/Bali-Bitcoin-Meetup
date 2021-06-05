@@ -1,6 +1,6 @@
 # Events
 
-Files for each of the Bitcoin Meetups in Bali.
+Files for each of the Bitcoin Meetups in Bali. Video recording will usually be added a day after the meetup.
 
 ## June/5: Mastering the Market Cycle & Crypto Regulations 
 * Presentation [download PPT](https://github.com/marvin-hansen/Bali-Bitcoin-Meetup/raw/main/4_Sat_June_05/Mastering%20Market%20Cycles.pptx)
