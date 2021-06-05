@@ -2,7 +2,7 @@
 
 Files for each of the Bitcoin Meetups in Bali.
 
-## Next: June/5: Mastering the Market Cycle & Crypto Regulations 
+## June/5: Mastering the Market Cycle & Crypto Regulations 
 * Presentation [download PPT](https://github.com/marvin-hansen/Bali-Bitcoin-Meetup/raw/main/4_Sat_June_05/Mastering%20Market%20Cycles.pptx)
 * Guest speaker presentation [download PPT](https://github.com/marvin-hansen/Bali-Bitcoin-Meetup/raw/main/4_Sat_June_05/Crypto%20Regulations%20-%20Bali%20Bitcoin%20Meetup%20-%20Final%20version.pptx):
 * Guest Speaker Book: [The Tax-Free Digital Nomad](https://www.amazon.com/Tax-Free-Digital-Nomad-Julius-VanderBeek-ebook/dp/B07X7G97T4)
