@@ -1,6 +1,12 @@
 # Events
 
-Files for each of the Bitcoin Meetups in Bali. Video recording will usually be added a day after the meetup.
+Files for each of the Bitcoin Meetups in Bali. Live streaming usually starts a few minutes before the meetup starts and video recording 
+will usually be available a day after the meetup.
+
+Get all Bali Bitcoin news, updates, and latest annoucesment: 
+* [FB Group](https://www.facebook.com/groups/1126150387884943) 
+* [Telegram group chat](https://t.me/joinchat/2T6yvFcokRQ3ZDQ0)
+* YouTube Channel (@TODO)  
 
 ## June/5: Mastering the Market Cycle & Crypto Regulations 
 * Presentation [download PPT](https://github.com/marvin-hansen/Bali-Bitcoin-Meetup/raw/main/4_Sat_June_05/Mastering%20Market%20Cycles.pptx)
