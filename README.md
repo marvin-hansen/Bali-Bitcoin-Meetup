@@ -9,7 +9,7 @@ Get all Bali Bitcoin news, updates, and latest annoucesment:
 * YouTube Channel (@TODO)  
 
 ## Next: July/3: Building Wealth With Crypto
-* FB [Event](https://fb.me/e/3WIXqvM8W)
+* [Event Page](https://www.eventbrite.com/e/bali-bitcoin-meetup-building-wealth-with-crypto-tickets-158336172755)
 * Presentation
 * Video recording
 
