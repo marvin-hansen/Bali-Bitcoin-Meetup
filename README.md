@@ -8,11 +8,16 @@ Get all Bali Bitcoin news, updates, and latest annoucesment:
 * [Telegram group chat](https://t.me/joinchat/2T6yvFcokRQ3ZDQ0)
 * YouTube Channel (@TODO)  
 
+## July/3: Building Wealth With Crypto
+* FB [Event](https://fb.me/e/3WIXqvM8W)
+* Presentation
+* Video recording
+
 ## June/5: Mastering the Market Cycle & Crypto Regulations 
 * Presentation [download PPT](https://github.com/marvin-hansen/Bali-Bitcoin-Meetup/raw/main/4_Sat_June_05/Mastering%20Market%20Cycles.pptx)
 * Guest speaker presentation [download PPT](https://github.com/marvin-hansen/Bali-Bitcoin-Meetup/raw/main/4_Sat_June_05/Crypto%20Regulations%20-%20Bali%20Bitcoin%20Meetup%20-%20Final%20version.pptx):
 * Guest Speaker Book: [The Tax-Free Digital Nomad](https://www.amazon.com/Tax-Free-Digital-Nomad-Julius-VanderBeek-ebook/dp/B07X7G97T4)
-* Video recording: @TODO
+* Video recording: [YouTube](https://youtu.be/Rq92WUSaduc)
 
 ## May/29: Crpyto Investment 
 *  Presentation [powerpoint](https://github.com/marvin-hansen/Bali-Bitcoin-Meetup/raw/main/3_Sat_May_29/Invest%20in%20Bitcoin.pptx)
