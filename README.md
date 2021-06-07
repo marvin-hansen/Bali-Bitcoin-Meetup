@@ -8,7 +8,7 @@ Get all Bali Bitcoin news, updates, and latest annoucesment:
 * [Telegram group chat](https://t.me/joinchat/2T6yvFcokRQ3ZDQ0)
 * YouTube Channel (@TODO)  
 
-## July/3: Building Wealth With Crypto
+## Next: July/3: Building Wealth With Crypto
 * FB [Event](https://fb.me/e/3WIXqvM8W)
 * Presentation
 * Video recording
