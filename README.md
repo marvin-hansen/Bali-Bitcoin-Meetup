@@ -8,7 +8,8 @@ Get all Bali Bitcoin news, updates, and latest annoucesment:
 * [Telegram group chat](https://t.me/joinchat/2T6yvFcokRQ3ZDQ0)
 * YouTube Channel (@TODO)  
 
-## Next: Postponed due to local cocid lockdown. Please join Telegram chat for updates! 
+## Next: Postponed due to local covid lockdown. 
+* Please join Telegram chat for updates! 
 * Topic: Building Wealth With Crypto
 * [Event Tickets](https://www.eventbrite.com/e/bali-bitcoin-meetup-building-wealth-with-crypto-tickets-158336172755)
 * [FB Event Page](https://fb.me/e/3WIXqvM8W)
