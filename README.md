@@ -5,10 +5,7 @@ will usually be available a day after the meetup.
 
 
 ## Next: Postponed due to local covid lockdown. 
-* Please join Telegram chat for updates! 
-* Topic: Building Wealth With Crypto
 * [Event Tickets](https://www.eventbrite.com/e/bali-bitcoin-meetup-building-wealth-with-crypto-tickets-158336172755)
-* [FB Event Page](https://fb.me/e/3WIXqvM8W)
 * Presentation
 * Video recording
 
